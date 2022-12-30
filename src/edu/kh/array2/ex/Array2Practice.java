@@ -59,7 +59,6 @@ public class Array2Practice {
 			}
 		}
 		
-		
 		//출력
 		// Arrays.toString(배열명) : 참조하고 있는 1차원 배열값을 문자열로 반환
 		System.out.println(Arrays.toString(arr));
